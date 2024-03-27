@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4a47df2.css",
-    "main.js": "/static/js/main.7ff0e6d4.js",
+    "main.css": "/static/css/main.736aa859.css",
+    "main.js": "/static/js/main.5c1401f9.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/terminosycondiciones.png": "/static/media/terminosycondiciones.5022ddd16480941f2768.png",
     "static/media/preguntasfrecuentes.png": "/static/media/preguntasfrecuentes.9004c7ed659d742cfff2.png",
     "static/media/acercadenosotros.png": "/static/media/acercadenosotros.9696af5676f638b4325e.png",
     "static/media/ticketTransfer.png": "/static/media/ticketTransfer.65edf4b702e3f6ba3e76.png",
-    "static/media/cine2.png": "/static/media/cine2.f66119b091a3ef0e3e49.png",
     "static/media/maps-preview.png": "/static/media/maps-preview.33e9f058638fb4f3b2f5.png",
     "static/media/ticket.png": "/static/media/ticket.0335be5631d57ae5bc5c.png",
     "static/media/evento_noiniciado.png": "/static/media/evento_noiniciado.8a24368911727e00eca3.png",
     "static/media/evento_finalizado.png": "/static/media/evento_finalizado.dce7b4def2d2b34ad872.png",
     "static/media/loading.gif": "/static/media/loading.b310cb9d61736e4e0ba5.gif",
     "static/media/ticketFinal.png": "/static/media/ticketFinal.0731b2f2930c7e8774f4.png",
-    "static/media/cine1.png": "/static/media/cine1.84d9c7b5d3e5dbcdf1d5.png",
-    "static/media/lomaschevere.png": "/static/media/lomaschevere.d0e296ff1454d8163e1f.png",
+    "static/media/cine1.png": "/static/media/cine1.7dbed5dc5e6356d8b6b5.png",
+    "static/media/cine2.png": "/static/media/cine2.6e7ea54e3d3a311be86a.png",
     "static/media/yape.png": "/static/media/yape.b2a1f8a94c9198185f76.png",
     "static/media/plin.png": "/static/media/plin.29751c27afa4b4b31268.png",
     "static/media/logofooter.png": "/static/media/logofooter.9346ac09eef105f48661.png",
@@ -26,12 +25,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.a4a47df2.css.map": "/static/css/main.a4a47df2.css.map",
-    "main.7ff0e6d4.js.map": "/static/js/main.7ff0e6d4.js.map",
+    "main.736aa859.css.map": "/static/css/main.736aa859.css.map",
+    "main.5c1401f9.js.map": "/static/js/main.5c1401f9.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4a47df2.css",
-    "static/js/main.7ff0e6d4.js"
+    "static/css/main.736aa859.css",
+    "static/js/main.5c1401f9.js"
   ]
 }
